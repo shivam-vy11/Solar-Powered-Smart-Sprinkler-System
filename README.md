@@ -67,8 +67,6 @@ Traditional irrigation methods often result in:
 
 ---
 
-## Project Status
+## Project Video
 
-**Prototype / Academic Project**
-
-This repository documents the concept, design, and future development roadmap of a solar-powered smart irrigation system.
+Here is a video explaining each part of the system by our team : [Project Demo video](https://youtu.be/sSUaUWDPsrw?si=LIuy1xvhMyAJXVQv)
